@@ -1,0 +1,5 @@
+connection:
+    driver: "pdo_mysql"
+    user:   "root"
+    password: ""
+    dbname: "evaluator-doctrine"

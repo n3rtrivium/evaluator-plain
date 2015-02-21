@@ -1,0 +1,19 @@
+{
+	"name" : "n3rtrivium/evaluator-plain",
+	"description" : "minimal mysql app",
+	"require" : {
+		"symfony/yaml" : "2.*",
+		"symfony/http-foundation" : "2.6.*"
+	},
+	"autoload" : {
+		"psr-0" : {
+			"N3rtrivium\\EvaluatorPlain\\" : "src/"
+		}
+	},
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "Martin Wind",
+			"email" : "mawi1988@gmail.com"
+		}
+	]
+}

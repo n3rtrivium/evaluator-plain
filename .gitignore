@@ -1,0 +1,5 @@
+vendor
+parameters.yml
+.DS_Store
+.settings
+composer.phar

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="vendor/doctrine/common/lib"/>
+	<buildpathentry kind="src" path="vendor/doctrine/orm/lib"/>
+	<buildpathentry kind="src" path="src"/>
+	<buildpathentry kind="src" path="vendor/doctrine/collections/lib"/>
+	<buildpathentry kind="src" path="vendor/doctrine/inflector/lib"/>
+	<buildpathentry kind="src" path="vendor/symfony/console"/>
+	<buildpathentry kind="src" path="vendor/doctrine/dbal/lib"/>
+	<buildpathentry kind="src" path="vendor/composer"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+	<buildpathentry kind="src" path="vendor/doctrine/cache/lib"/>
+	<buildpathentry kind="src" path="vendor/symfony/http-foundation"/>
+	<buildpathentry kind="src" path="vendor/doctrine/lexer/lib"/>
+	<buildpathentry kind="src" path="vendor/doctrine/annotations/lib"/>
+	<buildpathentry kind="src" path="vendor/symfony/yaml"/>
+</buildpath>
